@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/gargx19/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/gargx19/Leet-Code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/gargx19/Leet-Code/tree/master/1512-number-of-good-pairs) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/gargx19/Leet-Code/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/gargx19/Leet-Code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/gargx19/Leet-Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gargx19/Leet-Code/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/gargx19/Leet-Code/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/gargx19/Leet-Code/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gargx19/Leet-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/gargx19/Leet-Code/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/gargx19/Leet-Code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/gargx19/Leet-Code/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1768-merge-strings-alternately](https://github.com/gargx19/Leet-Code/tree/master/1768-merge-strings-alternately) |
