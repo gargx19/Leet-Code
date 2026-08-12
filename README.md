@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/gargx19/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/gargx19/Leet-Code/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/gargx19/Leet-Code/tree/master/0771-jewels-and-stones) |
+| [1021-remove-outermost-parentheses](https://github.com/gargx19/Leet-Code/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/gargx19/Leet-Code/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/gargx19/Leet-Code/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2000-reverse-prefix-of-word](https://github.com/gargx19/Leet-Code/tree/master/2000-reverse-prefix-of-word) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/gargx19/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/gargx19/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/gargx19/Leet-Code/tree/master/0496-next-greater-element-i) |
+| [1021-remove-outermost-parentheses](https://github.com/gargx19/Leet-Code/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/gargx19/Leet-Code/tree/master/2000-reverse-prefix-of-word) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/gargx19/Leet-Code/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 ## Linked List
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gargx19/Leet-Code/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/gargx19/Leet-Code/tree/master/1021-remove-outermost-parentheses) |
 ## Sorting
 |  |
 | ------- |
