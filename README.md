@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/gargx19/Leet-Code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gargx19/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/gargx19/Leet-Code/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/gargx19/Leet-Code/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gargx19/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/gargx19/Leet-Code/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gargx19/Leet-Code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/gargx19/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gargx19/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/gargx19/Leet-Code/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/gargx19/Leet-Code/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gargx19/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/gargx19/Leet-Code/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/gargx19/Leet-Code/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/gargx19/Leet-Code/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gargx19/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gargx19/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/gargx19/Leet-Code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
