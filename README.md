@@ -41,5 +41,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/gargx19/Leet-Code/tree/master/0237-delete-node-in-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/gargx19/Leet-Code/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
