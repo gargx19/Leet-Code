@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/gargx19/Leet-Code/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/gargx19/Leet-Code/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gargx19/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/gargx19/Leet-Code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/gargx19/Leet-Code/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/gargx19/Leet-Code/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2000-reverse-prefix-of-word](https://github.com/gargx19/Leet-Code/tree/master/2000-reverse-prefix-of-word) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/gargx19/Leet-Code/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/gargx19/Leet-Code/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/gargx19/Leet-Code/tree/master/0989-add-to-array-form-of-integer) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/gargx19/Leet-Code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/gargx19/Leet-Code/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gargx19/Leet-Code/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gargx19/Leet-Code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -361,4 +363,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/gargx19/Leet-Code/tree/master/0572-subtree-of-another-tree) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/gargx19/Leet-Code/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/gargx19/Leet-Code/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
