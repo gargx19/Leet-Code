@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/gargx19/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/gargx19/Leet-Code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/gargx19/Leet-Code/tree/master/1512-number-of-good-pairs) |
+| [1929-concatenation-of-array](https://github.com/gargx19/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gargx19/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/gargx19/Leet-Code/tree/master/1991-find-the-middle-index-in-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/gargx19/Leet-Code/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/gargx19/Leet-Code/tree/master/1389-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/gargx19/Leet-Code/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/gargx19/Leet-Code/tree/master/1688-count-of-matches-in-tournament) |
+| [1929-concatenation-of-array](https://github.com/gargx19/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/gargx19/Leet-Code/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gargx19/Leet-Code/tree/master/2553-separate-the-digits-in-an-array) |
 ## String
