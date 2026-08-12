@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/gargx19/Leet-Code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/gargx19/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/gargx19/Leet-Code/tree/master/0066-plus-one) |
+| [1137-n-th-tribonacci-number](https://github.com/gargx19/Leet-Code/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gargx19/Leet-Code/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gargx19/Leet-Code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gargx19/Leet-Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -226,4 +227,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/gargx19/Leet-Code/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/gargx19/Leet-Code/tree/master/1148-article-views-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/gargx19/Leet-Code/tree/master/1137-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/gargx19/Leet-Code/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
