@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/gargx19/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/gargx19/Leet-Code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/gargx19/Leet-Code/tree/master/1512-number-of-good-pairs) |
+| [1991-find-the-middle-index-in-array](https://github.com/gargx19/Leet-Code/tree/master/1991-find-the-middle-index-in-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/gargx19/Leet-Code/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gargx19/Leet-Code/tree/master/2553-separate-the-digits-in-an-array) |
 ## Simulation
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/gargx19/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/gargx19/Leet-Code/tree/master/1991-find-the-middle-index-in-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
