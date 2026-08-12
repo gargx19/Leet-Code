@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/gargx19/Leet-Code/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/gargx19/Leet-Code/tree/master/0183-customers-who-never-order) |
 | [0511-game-play-analysis-i](https://github.com/gargx19/Leet-Code/tree/master/0511-game-play-analysis-i) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/gargx19/Leet-Code/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1068-product-sales-analysis-i](https://github.com/gargx19/Leet-Code/tree/master/1068-product-sales-analysis-i) |
 | [1084-sales-analysis-iii](https://github.com/gargx19/Leet-Code/tree/master/1084-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/gargx19/Leet-Code/tree/master/1141-user-activity-for-the-past-30-days-i) |
