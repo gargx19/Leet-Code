@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/gargx19/Leet-Code/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gargx19/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gargx19/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/gargx19/Leet-Code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/gargx19/Leet-Code/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gargx19/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/gargx19/Leet-Code/tree/master/1470-shuffle-the-array) |
