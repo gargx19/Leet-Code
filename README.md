@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gargx19/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gargx19/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/gargx19/Leet-Code/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/gargx19/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gargx19/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/gargx19/Leet-Code/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gargx19/Leet-Code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/gargx19/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gargx19/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/gargx19/Leet-Code/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/gargx19/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [2000-reverse-prefix-of-word](https://github.com/gargx19/Leet-Code/tree/master/2000-reverse-prefix-of-word) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/gargx19/Leet-Code/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 ## Linked List
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/gargx19/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/gargx19/Leet-Code/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/gargx19/Leet-Code/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/gargx19/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gargx19/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
@@ -311,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/gargx19/Leet-Code/tree/master/0319-bulb-switcher) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/gargx19/Leet-Code/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
