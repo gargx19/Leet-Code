@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1084-sales-analysis-iii](https://github.com/gargx19/Leet-Code/tree/master/1084-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/gargx19/Leet-Code/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/gargx19/Leet-Code/tree/master/1148-article-views-i) |
 ## Dynamic Programming
