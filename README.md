@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/gargx19/Leet-Code/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/gargx19/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/gargx19/Leet-Code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1512-number-of-good-pairs](https://github.com/gargx19/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/gargx19/Leet-Code/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gargx19/Leet-Code/tree/master/2553-separate-the-digits-in-an-array) |
 ## Simulation
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/gargx19/Leet-Code/tree/master/0169-majority-element) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/gargx19/Leet-Code/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1512-number-of-good-pairs](https://github.com/gargx19/Leet-Code/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/gargx19/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/gargx19/Leet-Code/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gargx19/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/gargx19/Leet-Code/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gargx19/Leet-Code/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gargx19/Leet-Code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gargx19/Leet-Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/gargx19/Leet-Code/tree/master/1512-number-of-good-pairs) |
 ## String Matching
 |  |
 | ------- |
