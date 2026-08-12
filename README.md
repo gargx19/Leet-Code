@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/gargx19/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/gargx19/Leet-Code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/gargx19/Leet-Code/tree/master/1512-number-of-good-pairs) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/gargx19/Leet-Code/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/gargx19/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gargx19/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/gargx19/Leet-Code/tree/master/1991-find-the-middle-index-in-array) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gargx19/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gargx19/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/gargx19/Leet-Code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/gargx19/Leet-Code/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Trie
 |  |
 | ------- |
@@ -394,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/gargx19/Leet-Code/tree/master/1071-greatest-common-divisor-of-strings) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/gargx19/Leet-Code/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
