@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/gargx19/Leet-Code/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/gargx19/Leet-Code/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/gargx19/Leet-Code/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/gargx19/Leet-Code/tree/master/0263-ugly-number) |
 | [1137-n-th-tribonacci-number](https://github.com/gargx19/Leet-Code/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gargx19/Leet-Code/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gargx19/Leet-Code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
