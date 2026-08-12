@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/gargx19/Leet-Code/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/gargx19/Leet-Code/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/gargx19/Leet-Code/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/gargx19/Leet-Code/tree/master/0319-bulb-switcher) |
 | [1137-n-th-tribonacci-number](https://github.com/gargx19/Leet-Code/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gargx19/Leet-Code/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gargx19/Leet-Code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -293,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/gargx19/Leet-Code/tree/master/0278-first-bad-version) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/gargx19/Leet-Code/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
