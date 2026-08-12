@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gargx19/Leet-Code/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/gargx19/Leet-Code/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gargx19/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gargx19/Leet-Code/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/gargx19/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/gargx19/Leet-Code/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gargx19/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gargx19/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gargx19/Leet-Code/tree/master/0027-remove-element) |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gargx19/Leet-Code/tree/master/0020-valid-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/gargx19/Leet-Code/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
