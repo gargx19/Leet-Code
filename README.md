@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/gargx19/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/gargx19/Leet-Code/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/gargx19/Leet-Code/tree/master/0409-longest-palindrome) |
+| [0434-number-of-segments-in-a-string](https://github.com/gargx19/Leet-Code/tree/master/0434-number-of-segments-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/gargx19/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [1108-defanging-an-ip-address](https://github.com/gargx19/Leet-Code/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/gargx19/Leet-Code/tree/master/1221-split-a-string-in-balanced-strings) |
