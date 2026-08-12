@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/gargx19/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/gargx19/Leet-Code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/gargx19/Leet-Code/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/gargx19/Leet-Code/tree/master/1672-richest-customer-wealth) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/gargx19/Leet-Code/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gargx19/Leet-Code/tree/master/2553-separate-the-digits-in-an-array) |
 ## Simulation
@@ -45,7 +46,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/gargx19/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [1389-create-target-array-in-the-given-order](https://github.com/gargx19/Leet-Code/tree/master/1389-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/gargx19/Leet-Code/tree/master/1518-water-bottles) |
-| [1688-count-of-matches-in-tournament](https://github.com/gargx19/Leet-Code/tree/master/1688-count-of-matches-in-tournament) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/gargx19/Leet-Code/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gargx19/Leet-Code/tree/master/2553-separate-the-digits-in-an-array) |
 ## String
@@ -246,7 +246,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gargx19/Leet-Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/gargx19/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/gargx19/Leet-Code/tree/master/1518-water-bottles) |
-| [1688-count-of-matches-in-tournament](https://github.com/gargx19/Leet-Code/tree/master/1688-count-of-matches-in-tournament) |
 ## String Matching
 |  |
 | ------- |
@@ -384,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/gargx19/Leet-Code/tree/master/1071-greatest-common-divisor-of-strings) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/gargx19/Leet-Code/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
