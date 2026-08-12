@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/gargx19/Leet-Code/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/gargx19/Leet-Code/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gargx19/Leet-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/gargx19/Leet-Code/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1768-merge-strings-alternately](https://github.com/gargx19/Leet-Code/tree/master/1768-merge-strings-alternately) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gargx19/Leet-Code/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/gargx19/Leet-Code/tree/master/1773-count-items-matching-a-rule) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/gargx19/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/gargx19/Leet-Code/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/gargx19/Leet-Code/tree/master/1688-count-of-matches-in-tournament) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/gargx19/Leet-Code/tree/master/1759-count-number-of-homogenous-substrings) |
 ## String Matching
 |  |
 | ------- |
