@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/gargx19/Leet-Code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/gargx19/Leet-Code/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/gargx19/Leet-Code/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gargx19/Leet-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/gargx19/Leet-Code/tree/master/2000-reverse-prefix-of-word) |
 ## Greedy
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/gargx19/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/gargx19/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gargx19/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gargx19/Leet-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/gargx19/Leet-Code/tree/master/2000-reverse-prefix-of-word) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/gargx19/Leet-Code/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 ## Linked List
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gargx19/Leet-Code/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gargx19/Leet-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
 |  |
 | ------- |
