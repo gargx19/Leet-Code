@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gargx19/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gargx19/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gargx19/Leet-Code/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gargx19/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gargx19/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/gargx19/Leet-Code/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gargx19/Leet-Code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/gargx19/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/gargx19/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gargx19/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gargx19/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2000-reverse-prefix-of-word](https://github.com/gargx19/Leet-Code/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/gargx19/Leet-Code/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gargx19/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gargx19/Leet-Code/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gargx19/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Tree
 |  |
 | ------- |
