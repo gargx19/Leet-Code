@@ -221,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gargx19/Leet-Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/gargx19/Leet-Code/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
