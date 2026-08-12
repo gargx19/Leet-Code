@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/gargx19/Leet-Code/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gargx19/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gargx19/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/gargx19/Leet-Code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/gargx19/Leet-Code/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gargx19/Leet-Code/tree/master/2553-separate-the-digits-in-an-array) |
 ## Simulation
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/gargx19/Leet-Code/tree/master/0015-3sum) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/gargx19/Leet-Code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Trie
 |  |
 | ------- |
