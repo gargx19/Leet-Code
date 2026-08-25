@@ -1,14 +1,14 @@
 class Solution {
     public String mapWordWeights(String[] words, int[] weights) {
-        String result = "";
+        StringBuilder result = new StringBuilder();
         for (int i = 0; i < words.length; i++) {
             int w = 0;
             for (int j = 0; j < words[i].length(); j++) {
                 w += weights[words[i].charAt(j) - 'a'];
             }
 
-            result += (char) (122 - (w % 26));
+            result.append((char) (122 - (w % 26)));
         }
-        return result;
+        return result.toString();
     }
 }
