@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/gargx19/Leet-Code/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gargx19/Leet-Code/tree/master/2553-separate-the-digits-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gargx19/Leet-Code/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/gargx19/Leet-Code/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/gargx19/Leet-Code/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/gargx19/Leet-Code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/gargx19/Leet-Code/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gargx19/Leet-Code/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/gargx19/Leet-Code/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/gargx19/Leet-Code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/gargx19/Leet-Code/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/gargx19/Leet-Code/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [3731-find-missing-elements](https://github.com/gargx19/Leet-Code/tree/master/3731-find-missing-elements) |
 ## Trie
 |  |
 | ------- |
