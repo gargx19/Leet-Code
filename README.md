@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/gargx19/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/gargx19/Leet-Code/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/gargx19/Leet-Code/tree/master/2000-reverse-prefix-of-word) |
+| [2396-strictly-palindromic-number](https://github.com/gargx19/Leet-Code/tree/master/2396-strictly-palindromic-number) |
 ## Stack
 |  |
 | ------- |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/gargx19/Leet-Code/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/gargx19/Leet-Code/tree/master/1688-count-of-matches-in-tournament) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/gargx19/Leet-Code/tree/master/1759-count-number-of-homogenous-substrings) |
+| [2396-strictly-palindromic-number](https://github.com/gargx19/Leet-Code/tree/master/2396-strictly-palindromic-number) |
 ## String Matching
 |  |
 | ------- |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/gargx19/Leet-Code/tree/master/0319-bulb-switcher) |
+| [2396-strictly-palindromic-number](https://github.com/gargx19/Leet-Code/tree/master/2396-strictly-palindromic-number) |
 ## Monotonic Stack
 |  |
 | ------- |
