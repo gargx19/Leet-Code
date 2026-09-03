@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gargx19/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gargx19/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/gargx19/Leet-Code/tree/master/0268-missing-number) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/gargx19/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/gargx19/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/gargx19/Leet-Code/tree/master/0605-can-place-flowers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gargx19/Leet-Code/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/gargx19/Leet-Code/tree/master/0409-longest-palindrome) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/gargx19/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/gargx19/Leet-Code/tree/master/0605-can-place-flowers) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/gargx19/Leet-Code/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/gargx19/Leet-Code/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gargx19/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gargx19/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/gargx19/Leet-Code/tree/master/0268-missing-number) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/gargx19/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gargx19/Leet-Code/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/gargx19/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gargx19/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
