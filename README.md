@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/gargx19/Leet-Code/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/gargx19/Leet-Code/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gargx19/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/gargx19/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gargx19/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gargx19/Leet-Code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gargx19/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/gargx19/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/gargx19/Leet-Code/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/gargx19/Leet-Code/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/gargx19/Leet-Code/tree/master/1137-n-th-tribonacci-number) |
