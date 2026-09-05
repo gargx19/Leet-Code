@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/gargx19/Leet-Code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gargx19/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/gargx19/Leet-Code/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/gargx19/Leet-Code/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/gargx19/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/gargx19/Leet-Code/tree/master/0268-missing-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/gargx19/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/gargx19/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gargx19/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gargx19/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/gargx19/Leet-Code/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/gargx19/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/gargx19/Leet-Code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gargx19/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/gargx19/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/gargx19/Leet-Code/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/gargx19/Leet-Code/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/gargx19/Leet-Code/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/gargx19/Leet-Code/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/gargx19/Leet-Code/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/gargx19/Leet-Code/tree/master/0268-missing-number) |
